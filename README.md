@@ -15,4 +15,6 @@ Multiple java programs
   <li>factorial();</li>
 </ul>
 <br>
+
+ObjectSerializer class is used to serialize and deserialize objects
 ::::::::::::::::::::::::::::::::::::::::::::::
